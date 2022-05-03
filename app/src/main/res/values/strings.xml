@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Week1.2</string>
+    <string name="Start">Старт</string>
+    <string name="Stop">Стоп</string>
+    <string name="service_activity">Service Activity</string>
+    <string name="content_provider_activity">Content Provider Activity</string>
+    <string name="broadcast_receiver_activity">Broadcast Receiver Activity</string>
+    <string name="hintText">Введите имя пользователя</string>
+    <string name="heading">Content Provider In Android</string>
+    <string name="insertButtontext">Вставить данные</string>
+    <string name="loadButtonText">Загрузить данные</string>
+    <string name="product_name">Наименование товара</string>
+    <string name="product_manufacturer">Производитель продукта</string>
+    <string name="add_product">Добавить продукт</string>
+    <string name="show_products">Показать продукты</string>
+</resources>
